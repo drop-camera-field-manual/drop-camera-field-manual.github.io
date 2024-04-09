@@ -1,6 +1,6 @@
 ---
 permalink: /sop-development
-title: "SOP development"
+title: "SOP Development"
 excerpt: "<br>"
 image:
   feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
