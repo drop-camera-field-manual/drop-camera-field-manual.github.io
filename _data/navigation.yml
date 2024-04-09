@@ -3,30 +3,46 @@
   url: https://drop-camera-field-manual.github.io/files/ADDPDFHERE.pdf
   excerpt: ""
   image: /5x8/download_5x8.jpg
-- title: "Platform Description"
-  url: https://drop-camera-field-manual.github.io/platform-description
+- title: "Introduction"
+  url: https://drop-camera-field-manual.github.io/introduction
   excerpt: ""
-  image: /5x8/platform-description_teaser.jpg
-- title: "Scope"
-  url: https://drop-camera-field-manual.github.io/scope
+  image: /5x8/introduction_teaser.jpg
+- title: "SOP Development"
+  url: https://drop-camera-field-manual.github.io/sop-development
   excerpt: ""
-  image: /5x8/scope_teaser.jpg
-- title: "ROVs in Marine Monitoring"
-  url: https://drop-camera-field-manual.github.io/rovs-in-marine-monitoring
+  image: /5x8/sop-development_teaser.jpg
+- title: "System Design"
+  url: https://drop-camera-field-manual.github.io/system-design
   excerpt: ""
-  image: /5x8/marine-monitoring_teaser.jpg
-- title: "Pre-survey Preparations"
-  url: https://drop-camera-field-manual.github.io/pre-survey-preparations
+  image: /5x8/system-design_teaser.jpg
+- title: "Sampling Design"
+  url: https://drop-camera-field-manual.github.io/sampling-design
   excerpt: ""
-  image: /5x8/presurvey-preparations_teaser.jpg
-- title: "Field Procedures"
-  url: https://drop-camera-field-manual.github.io/field-procedures
+  image: /5x8/sampling-design_teaser.jpg
+- title: "Field Logistics"
+  url: https://drop-camera-field-manual.github.io/field-logistics
   excerpt: ""
-  image: /5x8/field-procedures_teaser.jpg
-- title: "Post-survey Procedures"
-  url: https://drop-camera-field-manual.github.io/post-survey-procedures
+  image: /5x8/field-logistics_teaser.jpg
+- title: "Metadata Collection"
+  url: https://drop-camera-field-manual.github.io/metadata-collection
   excerpt: ""
-  image: /5x8/postsurvey_teaser.jpg
+  image: /5x8/metadata-collection_teaser.jpg
+- title: "Image Synchronisation, Compositing and stereo Calibration"
+  url: https://drop-camera-field-manual.github.io/image-synchronisation-compositing-stereo-calibration
+  excerpt: ""
+  image: /5x8/image-synchronisation-compositing-stereo-calibration_teaser.jpg
+- title: "Image Annotation"
+  url: https://drop-camera-field-manual.github.io/image-annotation
+  excerpt: ""
+  image: /5x8/image-annotation_teaser.jpg
+- title: "Quality Control and Data Curation"
+  url: https://drop-camera-field-manual.github.io/quality-control-data-curation
+  excerpt: ""
+  image: /5x8/quality-control-data-curation_teaser.jpg
+- title: "Conclusion"
+  url: https://drop-camera-field-manual.github.io/conclusion
+  excerpt: ""
+  image: /5x8/conclusion_teaser.jpg
 - title: "Field Manual Maintenance"
   url: https://drop-camera-field-manual.github.io/field-manual-maintenance
   excerpt: ""
