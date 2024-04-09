@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /sampling-design
-title: "Sampling design"
+title: "Sampling Design"
 excerpt: "<br>"
 image:
   feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
