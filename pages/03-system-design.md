@@ -1,6 +1,6 @@
 ---
 permalink: /system-design
-title: "System design"
+title: "System Design"
 excerpt: "<br>"
 image:
   feature: /FK200308-SuBastianRecoveryTwilight-20200316-Ingle-5814.jpg
