@@ -4,7 +4,7 @@ permalink: /image-synchronisation-compositing-stereo-calibration
 title: "Image Synchronisation, Compositing and stereo Calibration"
 excerpt: "<br>"
 image:
-  feature: /images/banner.jpg
+  feature: /banner.jpg
 layout: home
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
