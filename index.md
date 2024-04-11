@@ -9,6 +9,7 @@ image:
 
 <div align="center"><p style="font-size:20px;">
  <a href="mailto:tim.langlois@uwa.edu.au">Tim Langlois</a>, <a href="mailto:claude.spencer@uwa.edu.au">Claude Spencer</a>, Brooke Gibbons, Kingsley Griffin, Kye Adams, Charlotte Aston, Neville Barrett, Ashlee Bastiaansen, Donna Beach, Ant Bernard, Todd Bond, Genevieve Carey, Jenn Caselle, Katie Cieri, Gabrielle Cummins, Katherine Cure, Simon de Lestang, John Fitzhardinge, Anita Giraldo-Ospina, Gretchen Grammer, David Guilfoyle, Christopher Henderson, Sharyn Hickey, Jamie Hicks, Renae Hovey, Charlie Huveneers, Daniel Ierodiaconou, John Keesing, Nathan Knott, Jennifer Lavers, Steve Lindfield, James Lindholm, Stanley Mastrantonis, Kinsey Matthews, Matthew Navarro, Julian Partridge, Dominique Pellieter, Camilla Piggott, Rachel Przeslawski, Ben Radford, Matt Rees, Ron Reynolds, Fernanda Rolim, Adam Smith, Felix Spencer, Rick Starr, Samuel Thompson, Iszaac Webb, Wayne Webb, Sasha Whitmarsh, Joel Williams,  <a href="mailto:jacquomo.monk@utas.edu.au">Jacquomo Monk</a>
+</p></div>
   
 <img src="images/boss.png" width="100%">
 <br>
