@@ -4,7 +4,7 @@ permalink: /field-logistics
 title: "Field Logistics"
 excerpt: "<br>"
 image:
-  feature: /images/banner.jpg
+  feature: /banner.jpg
 layout: home
 
 ---
