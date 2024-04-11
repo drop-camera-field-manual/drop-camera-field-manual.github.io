@@ -4,7 +4,7 @@ permalink: /field-manual-maintenance
 title: "Field Manual Maintenance"
 excerpt: "<br>"
 image:
-  feature: /images/banner.jpg
+  feature: /banner.jpg
 layout: home
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
