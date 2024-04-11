@@ -3,7 +3,7 @@ permalink: /sop-development
 title: "SOP Development"
 excerpt: "<br>"
 image:
-  feature: /images/banner.jpg
+  feature: /banner.jpg
 layout: home
 
 ---
