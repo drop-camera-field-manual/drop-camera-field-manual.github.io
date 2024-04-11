@@ -21,7 +21,7 @@ image:
 |  **[SOP Development](https://drop-camera-field-manual.github.io/sop-development)**                                                                                |   
 |  **[System Design](https://drop-camera-field-manual.github.io/system-design)**                                                                                    |
 |  **[Sampling Design](https://drop-camera-field-manual.github.io/sampling-design)**                                                                                |
-|  **[Field Logistics]([https://rov-field-manual.github.io/pre-survey-preparations](https://drop-camera-field-manual.github.io/field-logistics))**                  |
+|  **[Field Logistics](https://drop-camera-field-manual.github.io/field-logistics)**                                                                                |
 |  **[Metadata Collection](https://drop-camera-field-manual.github.io/metadata-collection)**                                                                        |
 |  **[Image Synchronisation, Compositing and stereo Calibration](https://drop-camera-field-manual.github.io/image-synchronisation-compositing-stereo-calibration)** |  
 |  **[Image Annotation](https://drop-camera-field-manual.github.io/image-annotation)**                                                                              |  
