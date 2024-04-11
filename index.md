@@ -1,7 +1,7 @@
 ---
 layout: main
 permalink: /
-title: "Wide-field Stereo-video Drop Camera Field Manual"
+title: "Benthic Observation Survey System (BOSS) to survey marine benthic habitats"
 excerpt: ""
 image:
   feature: /banner.jpg
