@@ -4,7 +4,7 @@ permalink: /sampling-design
 title: "Sampling Design"
 excerpt: "<br>"
 image:
-  feature: /images/banner.jpg
+  feature: /banner.jpg
 layout: home
 
 ---
