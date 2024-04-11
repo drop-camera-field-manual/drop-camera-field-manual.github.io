@@ -3,7 +3,7 @@ permalink: /system-design
 title: "System Design"
 excerpt: "<br>"
 image:
-  feature: /images/banner.jpg
+  feature: /banner.jpg
 layout: home
 
 ---
