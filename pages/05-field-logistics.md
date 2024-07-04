@@ -177,11 +177,7 @@ We provide here a series of checklists that ensure that all data is collected co
   <tr>
    <td>8
    </td>
-   <td>Ensure all field metadata has been collected (see 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Metadata collection"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.uwlvyu8awbda">Metadata collection</a>).
+   <td>Ensure all field metadata has been collected (see <a href="https://drop-camera-field-manual.github.io/metadata-collection">Metadata collection</a>).
    </td>
   </tr>
 </table>
@@ -222,35 +218,27 @@ We provide here a series of checklists that ensure that all data is collected co
 
 ##### **Table 5.** End of day checklist.
 
-  <tr>
    <td>Step
-
+</p>
    </td>
    <td>Action
-
+</p>
    </td>
-  </tr>
-  <tr>
    <td>1
-
+</p>
    </td>
    <td>Once the drop camera is on the deck at the end of the day’s sampling, dry the housings and remove cameras, battery packs and memory cards. 
-
+</p>
    </td>
-  </tr>
-  <tr>
    <td>2
-
+</p>
    </td>
    <td>Review, download and backup all footage at the end of each day, using clear naming conventions for filenames and folder structure (Fig.5). 
-
+</p>
    </td>
-  </tr>
-  <tr>
    <td>3
-
+</p>
    </td>
    <td>Ensure all metadata is backed up and set all equipment to charge for the next day’s sampling.
-
+</p>
    </td>
-  </tr>
