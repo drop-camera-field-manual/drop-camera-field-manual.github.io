@@ -218,27 +218,32 @@ We provide here a series of checklists that ensure that all data is collected co
 
 ##### **Table 5.** End of day checklist.
 
+<table>
+  <tr>
    <td>Step
-</p>
    </td>
    <td>Action
-</p>
    </td>
+  </tr>
+  <tr>
    <td>1
-</p>
    </td>
-   <td>Once the drop camera is on the deck at the end of the day’s sampling, dry the housings and remove cameras, battery packs and memory cards. 
-</p>
+   <td>
+    Once the drop camera is on the deck at the end of the day’s sampling, dry the housings and remove cameras, battery packs and memory cards. 
    </td>
+  </tr>
+  <tr>
    <td>2
-</p>
    </td>
-   <td>Review, download and backup all footage at the end of each day, using clear naming conventions for filenames and folder structure (Fig.5). 
-</p>
+   <td>
+    Review, download and backup all footage at the end of each day, using clear naming conventions for filenames and folder structure (Fig.5). 
    </td>
+  </tr>
+  <tr>
    <td>3
-</p>
    </td>
-   <td>Ensure all metadata is backed up and set all equipment to charge for the next day’s sampling.
-</p>
+   <td>
+   Ensure all metadata is backed up and set all equipment to charge for the next day’s sampling.
    </td>
+  </tr>
+</table>
