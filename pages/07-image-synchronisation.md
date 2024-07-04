@@ -14,3 +14,20 @@ To ensure that the imagery from each camera can be effectively composited to be 
 ![alt_text](images/figure5.png "image_tooltip")
 
 **Figure 5**. Synchronised and composited imagery from four horizontal cameras.
+
+## Synchronisation diode
+
+We recommend that video rather than still imagery is collected and by using action cameras with external battery packs and large capacity memory cards, it is possible to record video for the whole day of field work and not require the camera housings to be opened until the end of the day. 
+
+However, to ensure that the imagery from each camera can be synchronised, both the lightweight mono-video and the larger stereo-video wide-field drop camera systems will require intermittent synchronisation with diodes, out of the water, throughout field deployment to enable imagery to be composited (see below for Image compositing). 
+
+For stereo-video imagery, we recommend intermittent with a minimum of four synchronisations should be done throughout the day. We propose the use of a flexible strip of waterproof LED lights, as synchronisation diodes, to generate a simultaneous flash in all eight or four horizontally facing cameras (Fig. 7) and provide wiring diagrams for this synchronisation diode (Fig. 8).
+
+
+![alt_text](images/image1.jpg "image_tooltip")
+
+**Figure 7.** Synchronisation diode.
+
+
+![alt_text](images/image2.png "image_tooltip")
+**Figure 8.** Schematic diagram of synchronisation diode wiring.
