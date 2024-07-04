@@ -30,4 +30,5 @@ For stereo-video imagery, we recommend intermittent with a minimum of four synch
 
 
 ![alt_text](images/figure8.png "image_tooltip")
+
 **Figure 8.** Schematic diagram of synchronisation diode wiring.
