@@ -277,7 +277,7 @@ We provide templates for metadata (Tables 6-8) and file organisation (Fig. 5) he
   </tr>
 </table>
 
-![alt_text](images/image1.jpg "image_tooltip")
+![alt_text](images/figure5.png "image_tooltip")
 
 **Figure 5.** Folder structure for downloaded footage. Footage is stored in a parent folder indicating the date the footage was recorded on, with separate folders for each of the eight stereo cameras and the downwards camera. 
 
