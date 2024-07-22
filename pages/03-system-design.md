@@ -22,10 +22,6 @@ The BOSS has two variants: a stereo system (Fig. 2) and a lighter-weight mono sy
 **Figure 3.** BOSS equipment required for deployment. a) Stereo camera frame with an additional downward facing camera mounted in buoyancy compartment, b) rope and floats, c) synchronisation diodes, d) detachable ballast and gloves, e) lights and batteries, f) cameras, battery packs, SD cards and spare O-rings, g) field metadata sheet, whiteboard and marker, h) charging equipment and downloading footage, and i) tools including silicone grease. 
 m but have limited mobility at these depths.<br>
 
-<sup>*</sup> Planning and field work only. Purchase of ROV, consumables, processing of samples and reporting are not included.<br>
-
-<sup>^^</sup> Estimates include basic positioning systems (such as USBL), grabber/manipulator and depth rated stereo cameras. Based on quotes from the companies as well as catalogue entries.<br>
-
 ## Camera and Photogrammetry
 
 Camera specifications can influence the accuracy of taxonomic identification, and stereo-measurements require careful adherence to camera alignment and calibration protocols. In our system, we record video with Sony FDR-X3000 cameras filming at 1920 x 1080 pixels, a frame rate of 60 frames per second and using the ‘medium’ field of view setting (~67.5˚). We recommend the use of cameras with a minimum resolution of 1920 × 1080 pixels (Langlois et al. 2020; Harvey et al. 2010) and a minimum capture rate of 30 frames per second, with all settings standardised across cameras. Higher camera resolution will generally improve taxonomic identification, but all systems should be thoroughly tested before deployment for overheating issues or write speed limitations at higher-quality settings. 
