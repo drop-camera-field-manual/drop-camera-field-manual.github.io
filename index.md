@@ -14,8 +14,7 @@ image:
 <img src="images/boss.png" width="100%">
 <br>
 <br>
-<strong>Chapter citation:</strong><br>Langlois T, Spencer C, Gibbons B, Griffin K, Adams K, Aston C, Barrett N, Bastiaansen A, Beach D, Bernard A, Bond T, Carey G, Caselle J, Cieri K, Cummins G, Cure K, de Lestang S, Fitzhardinge J, Giraldo-Ospina A, Grammer G, Guilfoyle D, Henderson C, Hickey S, Hicks J, Hovey R, Huveneers C, Ierodiaconou D, Keesing J, Knott N, Lavers J, Lindfield S, Lindholm J, Mastrantonis S, Matthews K, Navarro M, Partridge J, Pellieter D, Piggott C, Przeslawski R, Radford B, Rees M, Reynolds R, Rolim F, Smith A, Spencer F, Starr R, Thompson S, Webb I, Webb W, Whitmarsh S, Williams J,  Monk J. 2024. Benthic Observation Survey System (BOSS) to survey marine benthic habitats. In _Field Manuals for Marine Sampling to Monitor Australian Waters, Version 3._ Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP). 
-
+<strong>Chapter citation:</strong><br>Langlois T, Spencer C, Gibbons BA, Griffin KJ, Adams K, Aston C, Barrett N, Bastiaansen A, Beach D, Bernard A, Bond T, Carey GR, Caselle JE, Cieri K, Cummins GH, Cure K, de Lestang S, Fitzhardinge J, Giraldo-Ospina A, Grammer G, Guilfoyle DR, Henderson C, Hickey S, Hicks J, Hovey R, Huveneers C, Ierodiaconou D, Keesing J, Knott N, Lavers JL, Lindfield S, Lindholm J, Mastrantonis S, Matthews K, Navarro ML, Partridge J, Pelletier D, Piggott CVH, Przeslawski R, Radford B, Rees M, Reynolds R, Rolim FA, Smith A, Spencer F, Starr R, Thompson S, Webb I, Webb W, Whitmarsh S, Williams J, Monk J (2025) Benthic Observation Survey System (BOSS) for surveys of marine benthic habitats. Methods in Ecology and Evolution, https://doi.org/10.1111/2041-210X.70010
 
 
 | Chapter Contents                                                                                                                                                  |
